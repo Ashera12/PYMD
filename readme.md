@@ -1,6 +1,7 @@
 
 ### Spotify
-
+![image_processing20200715-29223-2iwliv](https://github.com/user-attachments/assets/9ad28384-18b1-4edf-9f8d-62343db4b549)
+![54786-how-to-use-spotify-on-android](https://github.com/user-attachments/assets/f31fe23a-ce77-4425-8fbe-480b61c4ec99)
 What is Spotify?
 
 Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world.
