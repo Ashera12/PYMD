@@ -32,3 +32,10 @@ Spotify only gives access to music and podcasts through our apps. Our licensing 
   <li>Thank You</li>
   
 </ul>
+
+---
+<div align="center">
+Made With Love ❤️
+
+<div>
+
