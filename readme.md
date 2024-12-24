@@ -25,7 +25,7 @@ Spotify only gives access to music and podcasts through our apps. Our licensing 
 # How To Download And Install The App
 
 <ul>
-  <li>Download The Spotify From Release </li>
+  <li>Download The Spotify Mod From Release </li>
   <li>Install The App</li>
   <li>Must Login With FaceBook</li>
   <li>UAnd finally You can listening the music</li>
